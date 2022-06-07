@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dprampolini
 - 👀 I’m interested in coding web apps
-- 🌱 I’m currently learning Laravel
-- 💞️ I’m not looking to collaborate currently
-- 📫 How to reach me d_prampolini@hotmail.it
+- 🌱 I’m currently learning Django
+- 💞️ I’m looking for a new job currently: I'm a biomedical engineer and I'm looking for an employment in healthcare field
+- 📫 How to reach me d.prampolini@gmail.com
 
 <!---
 dprampolini/dprampolini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
