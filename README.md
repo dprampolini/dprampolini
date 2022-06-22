@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dprampolini
 - 👀 I’m interested in coding web apps
 - 🌱 I’m currently learning Django
-- 💞️ I’m looking for a new job currently: I'm a biomedical engineer and I'm looking for an employment in healthcare field
+- 💞️ I’m looking for a new job currently: I'm a biomedical engineer and I'm looking for an employment possibly in healthcare field
 - 📫 How to reach me d.prampolini@gmail.com
 
 <!---
