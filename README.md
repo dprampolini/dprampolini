@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dprampolini
 - 👀 I’m interested in coding
-- 🌱 I’m currently working on a web project in Laravel
+- 🌱 I’m currently working on an healthcare project Panda based as Python developer
 - 📫 How to reach me d.prampolini@gmail.com
 
 <!---
